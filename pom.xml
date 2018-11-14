@@ -41,6 +41,7 @@
 
     <dependencyManagement>
         <dependencies>
+            <!-- Spring Cloud总依赖 -->
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-dependencies</artifactId>
